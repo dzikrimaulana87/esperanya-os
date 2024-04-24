@@ -22,7 +22,7 @@ Esperanya OS is specifically designed for Open Source Intelligence (OSINT) purpo
 ## Installation Guide
 1. Download the Esperanya OS ISO file from [download link].
 > [!NOTE]  
-> The operating system ISO installation process including the kernel will take longer due to the different compression algorithm.
+> The operating system ISO installation process that includes the kernel will take longer due to differences in compression algorithms.
 3. Prepare bootable media such as a USB flash drive or blank DVD.
 4. Create bootable media using software like Rufus (for USB) or appropriate DVD burning software.
 5. Boot your computer from the bootable media you have created.
