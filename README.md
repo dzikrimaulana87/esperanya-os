@@ -21,14 +21,16 @@ Esperanya OS is specifically designed for Open Source Intelligence (OSINT) purpo
 
 ## Installation Guide
 1. Download the Esperanya OS ISO file from [download link].
-2. Prepare bootable media such as a USB flash drive or blank DVD.
-3. Create bootable media using software like Rufus (for USB) or appropriate DVD burning software.
-4. Boot your computer from the bootable media you have created.
-5. Select the "Install Esperanya OS" option from the boot menu.
-6. Follow the installation steps displayed on the screen. You will be prompted to choose partition options and other system configurations.
-7. On the "Install Additional Software" step, you can choose to install additional software such as multimedia codecs or specific hardware drivers.
-8. Once done, restart your computer and remove the bootable media.
-9. Congratulations, you have successfully installed Esperanya OS!
+> [!NOTE]  
+> Additional steps for the ISO version include a custom kernel, decompress the DAA file to ISO, you can use [Power ISO].
+3. Prepare bootable media such as a USB flash drive or blank DVD.
+4. Create bootable media using software like Rufus (for USB) or appropriate DVD burning software.
+5. Boot your computer from the bootable media you have created.
+6. Select the "Install Esperanya OS" option from the boot menu.
+7. Follow the installation steps displayed on the screen. You will be prompted to choose partition options and other system configurations.
+8. On the "Install Additional Software" step, you can choose to install additional software such as multimedia codecs or specific hardware drivers.
+9. Once done, restart your computer and remove the bootable media.
+10. Congratulations, you have successfully installed Esperanya OS!
 
 ## Custom Kernel Versions
 - **Esperanya OS without Custom Kernel 6.6.28esperanya1**: This version does not include a custom kernel in the system.
@@ -60,3 +62,4 @@ If you have any questions or issues, feel free to contact our support team at es
 
 [download link]: https://drive.google.com/drive/folders/1ih-j6UqcdKdKYWF_D5cevy64iI6bJYus?usp=sharing
 [repository link]: https://github.com/dzikrimaulana87/esperanya-os/
+[Power ISO]:https://www.poweriso.com/tutorials/decompress-daa-to-iso.htm
