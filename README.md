@@ -1,49 +1,49 @@
-# Esperanya OS - Versi 1.0
+# Esperanya OS - Version 1.0
 
-## Deskripsi
-Esperanya OS adalah distribusi Linux turunan dari Ubuntu 22.04.3 dengan kernel custom 6.6.28esperanya1. OS ini dikustomisasi untuk memberikan pengalaman pengguna yang dioptimalkan dan fitur-fitur tambahan yang dapat disesuaikan.
+## Description
+Esperanya OS is a Linux distribution derived from Ubuntu 22.04.3 with a primary focus on Open Source Intelligence (OSINT). Built with custom kernel 6.6.28esperanya1, this OS not only offers powerful OSINT features but also provides a more engaging UI/UX experience for users.
 
-## Keperluan OSINT
-Esperanya OS dirancang khusus untuk keperluan OSINT (Open Source Intelligence) dan menyertakan sejumlah utilitas yang berguna untuk keperluan tersebut, antara lain:
+## OSINT Utilities
+Esperanya OS is specifically designed for Open Source Intelligence (OSINT) purposes and includes a number of useful utilities for this purpose, including:
 - Git (v2.17.1)
 - Python 3
 - OpenJDK 11.0.19
 - Maltego
 - ExifTool
 - Steghide
-- Dan banyak lagi
+- And many more
 
-## Persyaratan Sistem
-- Prosesor: Intel atau AMD x86-64
-- RAM: Minimal 2 GB (disarankan 4 GB atau lebih)
-- Ruang Penyimpanan: Minimal 20 GB
-- Resolusi Layar: Minimal 1024x768
+## System Requirements
+- Processor: Intel or AMD x86-64
+- RAM: Minimum 2 GB (recommended 4 GB or more)
+- Storage Space: Minimum 20 GB
+- Screen Resolution: Minimum 1024x768
 
-## Panduan Pemasangan
-1. Unduh berkas ISO Esperanya OS dari [tautan unduhan].
-2. Siapkan media bootable seperti USB flash drive atau DVD kosong.
-3. Buat media bootable dengan menggunakan perangkat lunak seperti Rufus (untuk USB) atau aplikasi burning DVD yang sesuai.
-4. Boot komputer Anda dari media bootable yang telah Anda buat.
-5. Pilih opsi "Install Esperanya OS" dari menu boot.
-6. Ikuti langkah-langkah instalasi yang ditampilkan di layar. Anda akan diminta untuk memilih opsi partisi dan konfigurasi sistem lainnya.
-7. Pada langkah "Instalasi Perangkat Lunak Tambahan", Anda dapat memilih untuk menginstal perangkat lunak tambahan seperti codec multimedia atau driver perangkat keras tertentu.
-8. Setelah selesai, restart komputer Anda dan cabut media bootable.
-9. Selamat, Anda telah berhasil menginstal Esperanya OS!
+## Installation Guide
+1. Download the Esperanya OS ISO file from [download link].
+2. Prepare bootable media such as a USB flash drive or blank DVD.
+3. Create bootable media using software like Rufus (for USB) or appropriate DVD burning software.
+4. Boot your computer from the bootable media you have created.
+5. Select the "Install Esperanya OS" option from the boot menu.
+6. Follow the installation steps displayed on the screen. You will be prompted to choose partition options and other system configurations.
+7. On the "Install Additional Software" step, you can choose to install additional software such as multimedia codecs or specific hardware drivers.
+8. Once done, restart your computer and remove the bootable media.
+9. Congratulations, you have successfully installed Esperanya OS!
 
-## Versi Custom Kernel
-- **Esperanya OS tanpa Kernel Custom 6.6.28esperanya1**: Versi ini tidak menyertakan kernel custom pada sistem.
-- **Esperanya OS dengan Kernel Custom 6.6.28esperanya1**: Versi ini menyertakan kernel custom yang dioptimalkan untuk meningkatkan performa dan stabilitas sistem.
+## Custom Kernel Versions
+- **Esperanya OS without Custom Kernel 6.6.28esperanya1**: This version does not include a custom kernel in the system.
+- **Esperanya OS with Custom Kernel 6.6.28esperanya1**: This version includes a custom kernel optimized to enhance system performance and stability.
 
-## Kontribusi
-Jika Anda menemukan bug atau memiliki saran untuk perbaikan, jangan ragu untuk membuka isu di repositori kami di [tautan repositori]. Kami sangat menghargai kontribusi dari pengguna kami.
+## Contributions
+If you find any bugs or have suggestions for improvements, feel free to open an issue in our repository at [repository link]. We greatly appreciate contributions from our users.
 
-## Lisensi
-Esperanya OS didistribusikan di bawah lisensi [GNU General Public License v3.0](LICENSE).
+## License
+Esperanya OS is distributed under the [GNU General Public License v3.0](LICENSE).
 
-## Kontak
-Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk menghubungi tim dukungan kami di esperanya.os@gmail.com.
+## Contact
+If you have any questions or issues, feel free to contact our support team at esperanya.os@gmail.com.
 
-## Tangkapan Layar
+## Screenshots
 <table>
   <tr>
     <td><img src="https://github.com/dzikrimaulana87/esperanya-os/assets/45265319/9c060748-6a21-46e6-8bd9-c896bc0c97f3" width="400"></td>
@@ -58,5 +58,5 @@ Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk menghubungi tim du
   </tr>
 </table>
 
-[tautan unduhan]: https://drive.google.com/drive/folders/1ih-j6UqcdKdKYWF_D5cevy64iI6bJYus?usp=sharing
-[tautan repositori]: https://github.com/dzikrimaulana87/esperanya-os/
+[download link]: https://drive.google.com/drive/folders/1ih-j6UqcdKdKYWF_D5cevy64iI6bJYus?usp=sharing
+[repository link]: https://github.com/dzikrimaulana87/esperanya-os/
